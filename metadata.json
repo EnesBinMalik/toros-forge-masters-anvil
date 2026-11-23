@@ -1,0 +1,6 @@
+{
+  "name": "Toros Forge: The Master's Anvil",
+  "description": "3D historical-industrial forging, mechanical castle defense engineering, and heavy kinetic melee combat set in the Taurus Mountains.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
